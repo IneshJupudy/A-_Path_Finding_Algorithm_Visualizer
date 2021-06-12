@@ -1,4 +1,4 @@
-# A-_Path_Finding_Algorithm_Visualizer
+# A*_Path_Finding_Algorithm_Visualizer
 
 
 A Path Finding Visualizer for the A star path finding algorithm. 
